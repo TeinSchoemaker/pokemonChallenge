@@ -47,8 +47,6 @@ def fighting(player, enemy, first):
             print(f"{enemy.name} has " + enemy_hp.__str__() + " health left!!!\n")
             time.sleep(1)
 
-
-
     if player_hp <= 0:
         print(f"{enemy.name} won!!!")
     elif enemy_hp <= 0:
