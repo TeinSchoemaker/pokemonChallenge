@@ -1,6 +1,5 @@
 import fight
 import pokedex
-import pypokedex
 
 
 def main_menu(pokemon_team):

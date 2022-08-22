@@ -1,7 +1,6 @@
 import random
 import time
-
-import pypokedex as pypokedex
+import pypokedex
 
 
 def initiate_fight(main_pokemon):
